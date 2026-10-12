@@ -1,0 +1,24 @@
+# Tooling and editor state
+.claude/
+.vscode/
+.idea/
+
+# Local helper, not part of the firmware
+serial_monitor.bat
+
+# Demo video (too large for GitHub, share by link instead)
+*.mp4
+*.mov
+*.mkv
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.map
+*.hex
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
