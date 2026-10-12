@@ -6,10 +6,11 @@
 # Local helper, not part of the firmware
 serial_monitor.bat
 
-# Demo video (too large for GitHub, share by link instead)
+# Raw recordings are too large for GitHub; only the compressed demo is tracked
 *.mp4
 *.mov
 *.mkv
+!demo.mp4
 
 # Arduino build output
 build/

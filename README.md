@@ -8,8 +8,8 @@ page and stored in flash, so they survive a power cut.
 
 ## Demo video
 
-<!-- Replace with your Google Drive or YouTube link before submitting -->
-`<add link here>`
+[demo.mp4](demo.mp4) — the Serial Monitor and the web dashboard updating together
+as water is poured into the tank.
 
 ## Hardware
 
